@@ -10,6 +10,6 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.8.0"
 }
 
-rootProject.name = "AdvantageKit"
+rootProject.name = "AZRI3D"
 includeBuild("akit")
 includeBuild("template_projects")
